@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Mehmetcan Dinç 👋
 
-<!--
-**mehmetcandinc/mehmetcandinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 💻 **Focus:** AI Application Development & Modern Web Architecture
+- 🛠️ **Building:** Scalable, intelligent applications & SaaS products
+- 🎯 **Passionate about:** Vibe coding, emerging AI tools, and sleek UI/UX design
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+**Languages & Web:** JavaScript, TypeScript, HTML5, CSS3, React, Next.js  
+**AI & Integration:** OpenAI API, Gemini API, AI Agents, Prompt Engineering  
+**Tools & Cloud:** Git, GitHub, VSCode, Firebase, Vercel  
+
+---
+
+### 📬 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehmetcandinc)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]()
+
+---
